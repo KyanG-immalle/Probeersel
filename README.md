@@ -10,3 +10,6 @@ Locatie.html verder aangepast en opmaak op toegevoegd
 
 ## 10/02/2026
 over-ons.html toegevoegd en opmaak op toegepast. Verder ben ik ook wat met de responsiviteit van de website bezig geweest.
+
+## 11/02/2026
+about-us.html toegevoegd en al de informatie van over-ons.html hier in het Engels op gezet.
