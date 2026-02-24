@@ -13,3 +13,6 @@ over-ons.html toegevoegd en opmaak op toegepast. Verder ben ik ook wat met de re
 
 ## 11/02/2026
 about-us.html toegevoegd en al de informatie van over-ons.html hier in het Engels op gezet.
+
+## 23/02/2026
+Mijn website responsief gemaakt.
