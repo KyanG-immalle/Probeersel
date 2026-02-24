@@ -16,3 +16,6 @@ about-us.html toegevoegd en al de informatie van over-ons.html hier in het Engel
 
 ## 23/02/2026
 Mijn website responsief gemaakt.
+
+## 24/02/2026
+Verder mijn website responsief gemaakt.
